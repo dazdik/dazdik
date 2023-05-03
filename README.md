@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
-###
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EDA47C5&width=435&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+GitHub+profile+%F0%9F%98%8A)](https://git.io/typing-svg)</div> 
+
 
 ### 💻 My Tech Stack:
 <div>
@@ -21,6 +21,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
   </a>
+</div>
+<div>
   <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer">
     <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="yandex.cloud" width="30" height="30"/>
   </a>
@@ -44,15 +46,14 @@
   </a>
 </div>
 
-
-### 
+# 
 ### 📊 My Stats 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dazdik&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dazdik&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dazdik&theme=buefy&utcOffset=8)
 
 
-###
+# 
 ### 📞 Connect with me:
 [<img src='https://user-images.githubusercontent.com/112638163/233418558-2b93b171-35a3-4dab-841a-1806b8106cac.png' alt='telegram' height='40'>](https://t.me/Dazdik)
 [<img src='https://user-images.githubusercontent.com/112638163/233425821-d65f1794-8e02-4d2b-9f7e-f95dfe23cc01.png' alt='instagram' height='40'>](https://www.instagram.com/dazdik/)
